@@ -1,0 +1,32 @@
+{
+  "skins": [
+    {
+      "id": 1,
+      "name": "Padrão",
+      "image": "skins/default_skin.png",
+      "rarity": "common",
+      "price": 0
+    },
+    {
+      "id": 2,
+      "name": "Raro",
+      "image": "skins/rare_skin.png",
+      "rarity": "rare",
+      "price": 500
+    },
+    {
+      "id": 3,
+      "name": "Épico",
+      "image": "skins/epic_skin.png",
+      "rarity": "epic",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Lendário",
+      "image": "skins/legendary_skin.png",
+      "rarity": "legendary",
+      "price": 5000
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "groups": {
+    "admin": {
+      "permissions": [
+        "economy.manage",
+        "inventory.manage",
+        "marketplace.manage",
+        "crafting.manage"
+      ]
+    },
+    "moderator": {
+      "permissions": [
+        "economy.transfer",
+        "inventory.view",
+        "marketplace.list"
+      ]
+    },
+    "player": {
+      "permissions": [
+        "economy.view",
+        "inventory.view",
+        "crafting.create"
+      ]
+    }
+  }
+}

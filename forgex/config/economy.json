@@ -1,0 +1,9 @@
+{
+  "currency_name": "ForgeCoins",
+  "start_balance": 1000,
+  "transaction_log": true,
+  "rewards": {
+    "daily_bonus": 50,
+    "event_bonus": 200
+  }
+}

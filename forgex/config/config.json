@@ -1,0 +1,39 @@
+{
+  "blips": {
+    "enabled": true,
+    "locations": [
+      {
+        "name": "Garagem Central",
+        "x": 1500.0,
+        "y": -2000.0,
+        "z": 13.0,
+        "icon": 55,
+        "color": [255, 0, 0]
+      }
+    ]
+  },
+  "markers": {
+    "enabled": true,
+    "locations": [
+      {
+        "name": "Oficina de Mods",
+        "x": 1500.0,
+        "y": -2000.0,
+        "z": 12.5,
+        "type": "cylinder",
+        "color": [0, 255, 0, 150]
+      }
+    ]
+  },
+  "acl": {
+    "admin_group": "Admin",
+    "mod_group": "Moderator"
+  },
+  "economy": {
+    "currency_name": "ForgeCoins",
+    "start_balance": 1000
+  },
+  "skins": {
+    "rarities": ["common", "rare", "epic", "legendary"]
+  }
+}

@@ -1,0 +1,17 @@
+<meta>
+    <info author="vt22221" version="1.0" name="ForgeX™ - Sistema Completo de Personalização" />
+    <script src="server/license.lua" type="server" />
+    <script src="server/forge_server.lua" type="server" />
+    <script src="server/admin.lua" type="server" />
+    <script src="client/forge_client.lua" type="client" />
+    <script src="client/gui_dx.lua" type="client" />
+    <script src="client/effects.lua" type="client" />
+    <script src="client/skins_client.lua" type="client" />
+    <script src="modules/craft.lua" type="shared" />
+    <script src="modules/evolution.lua" type="shared" />
+    <script src="modules/lootdrop.lua" type="shared" />
+    <script src="modules/marketplace.lua" type="shared" />
+    <script src="utils/logger.lua" type="shared" />
+    <script src="utils/permissions.lua" type="shared" />
+
+</meta>
