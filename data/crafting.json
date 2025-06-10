@@ -1,0 +1,8 @@
+{
+  "scope": { "materials": {"metal":2, "glass":1}, "craftTime":3, "desc":"Mira que aumenta precisão" },
+  "silencer": { "materials": {"metal":3, "rubber":1}, "craftTime":4, "desc":"Silenciador funcional" },
+  "flashlight": { "materials": {"metal":1, "electronics":2}, "craftTime":2, "desc":"Lanterna funcional" },
+  "stock": { "materials": {"wood":2, "metal":1}, "craftTime":3, "desc":"Coronha que reduz recoil" },
+  "longbarrel": { "materials": {"metal":3}, "craftTime":4, "desc":"Aumenta alcance" },
+  "fasttrigger": { "materials": {"metal":2, "spring":1}, "craftTime":3, "desc":"Aumenta cadência" }
+}

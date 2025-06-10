@@ -1,0 +1,7 @@
+[
+  {"type":"skin","name":"ak47_gold","price":1500,"desc":"AK-47 dourada lendária."},
+  {"type":"skin","name":"ak47_default","price":200,"desc":"AK-47 padrão."},
+  {"type":"lootbox","name":"common","price":250,"desc":"Lootbox comum (skins comuns, chance de skin rara)."},
+  {"type":"lootbox","name":"rare","price":750,"desc":"Lootbox rara (skins raras, chance de skin épica)."},
+  {"type":"upgrade","name":"ak47_mk2","price":700,"desc":"Upgrade AK-47 MK2: +10% dano, -5% recoil"}
+]

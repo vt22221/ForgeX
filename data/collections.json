@@ -1,0 +1,22 @@
+{
+  "collections": [
+    {
+      "weapon": "AK-47",
+      "skins": ["AK-47|Redline", "AK-47|Vulcan", "AK-47|Elite Build"],
+      "reward": "AK-47|Gold",
+      "desc": "Complete todas as skins AK-47 e ganhe uma AK-47 Dourada!"
+    },
+    {
+      "weapon": "M4A1",
+      "skins": ["M4A1|Asiimov", "M4A1|Neo Noir", "M4A1|Sonic"],
+      "reward": "M4A1|Royal",
+      "desc": "Colete todas as skins M4A1 para ganhar uma skin exclusiva!"
+    },
+    {
+      "weapon": "AWP",
+      "skins": ["AWP|Dragon Lore", "AWP|Redline", "AWP|Fever Dream"],
+      "reward": "lootbox",
+      "desc": "Colete todas as skins AWP e ganhe uma lootbox."
+    }
+  ]
+}

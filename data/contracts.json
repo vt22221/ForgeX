@@ -1,0 +1,31 @@
+{
+  "contracts": [
+    {
+      "id": "ak_contract",
+      "type": "skin",
+      "input": ["AK-47|Redline", "AK-47|Vulcan"],
+      "output": "lootbox",
+      "reward": "lootbox",
+      "desc": "Troque 2 skins AK-47 por uma lootbox",
+      "repeatable": false
+    },
+    {
+      "id": "m4_contract",
+      "type": "skin",
+      "input": ["M4A1|Asiimov", "M4A1|Neo Noir"],
+      "output": "lootbox",
+      "reward": "lootbox",
+      "desc": "Troque 2 skins M4A1 por uma lootbox",
+      "repeatable": false
+    },
+    {
+      "id": "sniper_contract",
+      "type": "skin",
+      "input": ["AWP|Dragon Lore", "AWP|Redline"],
+      "output": "AK-47|Gold",
+      "reward": "AK-47|Gold",
+      "desc": "Troque 2 skins AWP por uma skin dourada!",
+      "repeatable": false
+    }
+  ]
+}

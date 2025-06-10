@@ -1,0 +1,5 @@
+{
+  "firstkill": {"desc":"Primeiro abate!","reward":"lootbox_classic","goal":1},
+  "100kills": {"desc":"100 abates!","reward":"lootbox_classic","goal":100}
+
+}

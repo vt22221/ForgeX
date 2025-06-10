@@ -1,0 +1,19 @@
+{
+  "common": {
+    "desc": "Lootbox Comum",
+    "rewards": {
+      "comum": [
+        {"type":"skin","key":"ak47_default","chance":70},
+        {"type":"skin","key":"ak47_gold","chance":30}
+      ]
+    }
+  },
+  "rare": {
+    "desc": "Lootbox Rara",
+    "rewards": {
+      "raro": [
+        {"type":"skin","key":"ak47_gold","chance":100}
+      ]
+    }
+  }
+}

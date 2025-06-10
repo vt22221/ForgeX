@@ -1,0 +1,49 @@
+{
+  "ak47": {
+    "levels": [
+      {
+        "name": "MK1",
+        "desc": "+5% Dano",
+        "stat": { "damage": 1.05 },
+        "cost": 500,
+        "requires": {"lootbox": "common", "amount": 1}
+      },
+      {
+        "name": "MK2",
+        "desc": "+10% Dano, -5% Recoil",
+        "stat": { "damage": 1.10, "recoil": 0.95 },
+        "cost": 1200,
+        "requires": {"lootbox": "rare", "amount": 1}
+      },
+      {
+        "name": "MK3",
+        "desc": "+15% Dano, -10% Recoil, +10% Precisão",
+        "stat": { "damage": 1.15, "recoil": 0.9, "accuracy": 1.10 },
+        "cost": 2500,
+        "requires": {"skin": "ak47_gold" }
+      }
+    ]
+  },
+  "m4": {
+    "levels": [
+      {
+        "name": "MK1",
+        "desc": "-5% Recoil",
+        "stat": { "recoil": 0.95 },
+        "cost": 700
+      },
+      {
+        "name": "MK2",
+        "desc": "+10% Precisão",
+        "stat": { "accuracy": 1.10 },
+        "cost": 1400
+      },
+      {
+        "name": "MK3",
+        "desc": "+12% Dano, -8% Recoil",
+        "stat": { "damage": 1.12, "recoil": 0.92 },
+        "cost": 3500
+      }
+    ]
+  }
+}

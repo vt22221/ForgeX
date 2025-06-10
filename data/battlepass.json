@@ -1,0 +1,8 @@
+{
+    "levels": [
+        {"level": 1, "xp": 0, "reward": {"lootbox": "lootbox_classic"}},
+        {"level": 2, "xp": 100, "reward": {"skin": "AK-47|Redline"}},
+        {"level": 3, "xp": 250, "reward": {"lootbox": "lootbox_classic", "premium": true}},
+        {"level": 4, "xp": 500, "reward": {"skin": "M4A1|Asiimov"}}
+    ]
+}

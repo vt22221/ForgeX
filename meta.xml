@@ -1,0 +1,61 @@
+<meta>
+    <info name="ForgeX - Professional Edition" author="Seu Nome (Revisado por Gemini)" version="2.0.0" type="script" description="Sistema completo de armas, inventario, marketplace e sistemas de engajamento."/>
+
+    <oop>true</oop>
+
+    <script src="server/db.s.lua" type="server" />
+    <script src="server/main.s.lua" type="server" />
+    <script src="server/systems/player_data.s.lua" type="server" />
+    <script src="server/events.s.lua" type="server" />
+    <script src="server/admin.s.lua" type="server" />
+    <script src="server/systems/achievements.s.lua" type="server" />
+    <script src="server/systems/battlepass.s.lua" type="server" />
+    <script src="server/systems/inventory.s.lua" type="server" />
+    <script src="server/systems/marketplace.s.lua" type="server" />
+    <script src="server/systems/missions.s.lua" type="server" />
+    <script src="server/systems/ranked.s.lua" type="server" />
+    <script src="server/systems/rentals.s.lua" type="server" />
+    <script src="shared/config.lua" type="shared" />
+
+
+    <script src="client/lang.c.lua" type="client" cache="false" />
+    <script src="client/notifications.c.lua" type="client" cache="false" />
+    <script src="client/ui_extras.c.lua" type="client" cache="false" />
+    <script src="client/ui_manager.c.lua" type="client" cache="false" />
+    <script src="client/main.c.lua" type="client" cache="false" />
+    <script src="client/achievements.c.lua" type="client" cache="false" />
+    <script src="client/battlepass.c.lua" type="client" cache="false" />
+    <script src="client/collections.c.lua" type="client" cache="false" />
+    <script src="client/contracts.c.lua" type="client" cache="false" />
+    <script src="client/giftcode.c.lua" type="client" cache="false" />
+    <script src="client/inventory.c.lua" type="client" cache="false" />
+    <script src="client/marketplace.c.lua" type="client" cache="false" />
+    <script src="client/ranked.c.lua" type="client" cache="false" />
+    <script src="client/rentals.c.lua" type="client" cache="false" />
+
+
+    <file src="data/license.json" />
+    <file src="data/achievements.json" />
+    <file src="data/battlepass.json" />
+    <file src="data/collections.json" />
+    <file src="data/contracts.json" />
+    <file src="data/crafting.json" />
+    <file src="data/lootboxes.json" />
+    <file src="data/mods.json" />
+    <file src="data/shop.json" />
+    <file src="data/skins.json" />
+    <file src="data/upgrades.json" />
+    <file src="client/images/ak47.svg" />
+    <file src="client/images/gold.svg" />
+    <file src="client/images/lootbox.svg" />
+    <file src="data/models/ak47_gold.dff" />
+    <file src="data/models/ak47_gold.txd" />
+    <file src="data/models/ak47.dff" />
+    <file src="data/models/ak47.txd" />
+    <file src="data/lang/en.json"/>
+    <file src="data/lang/pt.json"/>
+    
+    <export function="isForgeXLicensed" type="server" />
+    <min_mta_version server="1.5.9" client="1.5.9" />
+
+</meta>

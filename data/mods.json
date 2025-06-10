@@ -1,0 +1,8 @@
+{
+  "scope": { "type": "accuracy", "bonus": 0.7, "desc": "Mira para aumentar precisão" },
+  "silencer": { "type": "silence", "bonus": 0.5, "desc": "Silenciador funcional" },
+  "flashlight": { "type": "illumination", "bonus": true, "desc": "Lanterna funcional" },
+  "stock": { "type": "recoil", "bonus": 0.65, "desc": "Coronha para reduzir recoil" },
+  "longbarrel": { "type": "range", "bonus": 200, "desc": "Cano longo para aumentar alcance" },
+  "fasttrigger": { "type": "firerate", "bonus": 70, "desc": "Gatilho rápido para aumentar cadência" }
+}

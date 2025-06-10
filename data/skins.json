@@ -1,0 +1,25 @@
+{
+  "ak47_gold": {
+    "name": "AK-47 Gold",
+    "model": "ak_gold.dff",
+    "texture": "ak_gold.txd",
+    "desc": "Edição dourada lendária.",
+    "rarity": "legendary",
+    "exclusive": true,
+    "event": "Battle Pass Season 1"
+  },
+  "ak47_default": {
+    "name": "AK-47 Default",
+    "model": "ak47.dff",
+    "texture": "ak47.txd",
+    "desc": "Original.",
+    "rarity": "common"
+  },
+  "ak47_urban": {
+    "name": "AK-47 Urban",
+    "model": "ak47_urban.dff",
+    "texture": "ak47_urban.txd",
+    "desc": "Camuflada urbana.",
+    "rarity": "rare"
+  }
+}
